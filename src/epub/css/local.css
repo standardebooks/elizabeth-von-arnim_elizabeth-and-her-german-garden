@@ -33,3 +33,8 @@
 [epub|type~="z3998:hymn"] p > span + br{
 	display: none;
 }
+
+[epub|type~="z3998:illustration"]{
+	height: 2em;
+	vertical-align: middle;
+}
