@@ -1,16 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+[epub|type~="chapter"]{
+	margin-top: 20vh;
+}
+
 [epub|type~="chapter"] h2{
-	display: none;
-}
-
-[epub|type~="chapter"] header + p{
-	margin-top: 0;
-}
-
-[epub|type~="se:diary.dateline"]{
+	font-size: 1em;
 	font-style: italic;
+	font-variant: normal;
+	font-weight: normal;
+	margin: 0;
 	text-align: initial;
 }
 
