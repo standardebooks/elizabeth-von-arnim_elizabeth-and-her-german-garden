@@ -62,7 +62,7 @@
 		<!--Source for illustration-3-->
 		<dc:source>https://archive.org/details/elizabethhergerm0000none</dc:source>
 		<meta property="se:production-notes">While an early version of this novel was published in 1898, it was rereleased as expanded edition in 1900. The later version is the basis for this ebook, except that illustration-3 and the surrounding text (later omitted) is taken from the earlier edition.</meta>
-		<meta property="se:word-count">48488</meta>
+		<meta property="se:word-count">48489</meta>
 		<meta property="se:reading-ease.flesch">60.48</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Elizabeth_and_Her_German_Garden</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/elizabeth-von-arnim_elizabeth-and-her-german-garden</meta>
