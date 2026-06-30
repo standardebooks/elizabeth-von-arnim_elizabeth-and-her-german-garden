@@ -1,0 +1,1 @@
+While an early version of this novel was published in 1898, it was rereleased as expanded edition in 1900. The later version is the basis for this ebook, except that illustration-3 and the surrounding text (later omitted) is taken from the earlier edition.
