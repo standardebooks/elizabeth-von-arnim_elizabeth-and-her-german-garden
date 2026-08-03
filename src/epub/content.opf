@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden</dc:identifier>
 		<dc:date>2023-07-31T14:56:53Z</dc:date>
@@ -51,11 +51,11 @@
 		<meta property="term" refines="#subject-6">sh2008105046</meta>
 		<meta property="schema:genre">Autobiography</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Told in a series of diary entries, &lt;i&gt;Elizabeth and Her German Garden&lt;/i&gt; recounts one year in the life of an Englishwoman determined to revitalize the neglected garden of their German estate. It is in the process of laying out flower beds, ordering rose varietals, and supervising the planting that she finds peace and escape from her three young children (referred to simply as the April, May, and June babies) and husband, a German aristocrat who she satirically calls the “Man of Wrath.” For Elizabeth, each season brings delightful and unexpected changes to her garden—and less delightful visits from unwanted houseguests who fail to appreciate the beauty and calm that she strives to create.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Elizabeth and Her German Garden&lt;/i&gt; was published anonymously in 1898 due to its semi-autobiographical nature: like the Elizabeth of the novel, &lt;a href="https://standardebooks.org/ebooks/elizabeth-von-arnim"&gt;Arnim&lt;/a&gt; lived in a manor in Pomerania with her first husband, a German Count, with whom she shared several children. This novel, her first, was an instant bestseller. It was reprinted numerous times in its first few years and rereleased in 1900 as an expanded edition with new diary entries added. There was much speculation about the author’s identity (with at least one publisher incorrectly crediting the novel to Princess Henry von Pless), and thanks to its runaway success, her following works were simply attributed to “the author of &lt;i&gt;Elizabeth and Her German Garden&lt;/i&gt;” or even just “&lt;i&gt;Elizabeth&lt;/i&gt;.” Today, it continues to be loved by readers drawn in by Elizabeth’s witty, sarcastic observations about life, family, and nineteenth century German society intertwined with idyllic descriptions of nature and solitude.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1327</dc:source>
 		<!--Main source scans-->
