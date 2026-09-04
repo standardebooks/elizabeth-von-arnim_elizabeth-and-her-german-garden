@@ -32,11 +32,11 @@
 		<dc:title id="title">Elizabeth and Her German Garden</dc:title>
 		<meta property="file-as" refines="#title">Elizabeth and Her German Garden</meta>
 		<dc:subject id="subject-1">Autobiographical fiction</dc:subject>
-		<dc:subject id="subject-2">Germany -- Fiction</dc:subject>
-		<dc:subject id="subject-3">British -- Germany -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Women gardeners -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Gardening -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Gardens -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Germany--Fiction</dc:subject>
+		<dc:subject id="subject-3">British--Germany--Fiction</dc:subject>
+		<dc:subject id="subject-4">Women gardeners--Fiction</dc:subject>
+		<dc:subject id="subject-5">Gardening--Fiction</dc:subject>
+		<dc:subject id="subject-6">Gardens--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048066</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
